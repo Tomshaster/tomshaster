@@ -6,8 +6,8 @@ Hi, I'm Tomas Cartagena and I am a young and enterprising developer ready to tak
 
 
 # 📌 My Projects:
-[Your Job: Work Searching Site](https://github.com/Tomshaster/Your-Job-PF)__
-[Dogs App: Dog Searching App](https://github.com/Tomshaster/PI-Dogs-main)__
+[Your Job: Work Searching Site](https://github.com/Tomshaster/Your-Job-PF)<br/>
+[Dogs App: Dog Searching App](https://github.com/Tomshaster/PI-Dogs-main)<br/>
 [Warframe relic searching App: Relic Searching App](https://github.com/Tomshaster/warframe-app-prototype)
 
 # 📞 Contact Me
