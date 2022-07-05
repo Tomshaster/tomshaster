@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Tomas Cartagena and I am a young and enterprising developer ready to take on any challenge. I am a graduate from soyHenry and from their web-development course I have acquiered knowledge in many areas relating to front-end and back-end
+Hi, I am Tomas and I am a young programmer ready to work and be able to apply my acquired knowledge in new work areas. I like to focus more in the 
+Back-end area, but I am also more than capable in the Front-end, and I always make sure that what I make works, testing it from various angles. I am constantly looking to help my co-workers in any problems they might be having, so as to combine our knowledge and make the most out of our work.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -7,6 +8,7 @@ Hi, I'm Tomas Cartagena and I am a young and enterprising developer ready to tak
 
 # 📌 My Projects:
 [Your Job: Work Searching Site](https://github.com/Tomshaster/Your-Job-PF)<br/>
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 [Dogs App: Dog Searching App](https://github.com/Tomshaster/PI-Dogs-main)<br/>
 [Warframe relic searching App: Relic Searching App](https://github.com/Tomshaster/warframe-app-prototype)
 
