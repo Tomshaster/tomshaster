@@ -8,7 +8,7 @@ Back-end area, but I am also more than capable in the Front-end, and I always ma
 
 # 📌 My Projects:
 [Your Job: Work Searching Site](https://github.com/Tomshaster/Your-Job-PF)<br/>
-![algo](https://github.com/Tomshaster/tomshaster/blob/main/Capture2.PNG) ![](https://github.com/Tomshaster/tomshaster/blob/main/Capture.PNG)![](https://github.com/Tomshaster/tomshaster/blob/main/Capture3.PNG) <br/>
+<img src="https://github.com/Tomshaster/tomshaster/blob/main/Capture2.PNG" alt="algo" width="350" height="200"> <img src="https://github.com/Tomshaster/tomshaster/blob/main/Capture.PNG" alt="algo" width="350" height="200"> <img src="https://github.com/Tomshaster/tomshaster/blob/main/Capture3.PNG" alt="algo" width="350" height="200"> <br/> 
 [Dogs App: Dog Searching App](https://github.com/Tomshaster/PI-Dogs-main)<br/>
 [Warframe relic searching App: Relic Searching App](https://github.com/Tomshaster/warframe-app-prototype)
 
