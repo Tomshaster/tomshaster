@@ -8,7 +8,7 @@ Back-end area, but I am also more than capable in the Front-end, and I always ma
 
 # 📌 My Projects:
 [Your Job: Work Searching Site](https://github.com/Tomshaster/Your-Job-PF)<br/>
-![[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=400px]]<br/>
+<br/>
 [Dogs App: Dog Searching App](https://github.com/Tomshaster/PI-Dogs-main)<br/>
 [Warframe relic searching App: Relic Searching App](https://github.com/Tomshaster/warframe-app-prototype)
 
